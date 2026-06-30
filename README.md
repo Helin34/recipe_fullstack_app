@@ -2,7 +2,7 @@
 
 A modern full-stack recipe application where users can browse, search, create and delete recipes.
 
-![Demo](./frontend/public/demo.gif)
+![Demo](./demo.gif)
 
 ---
 
